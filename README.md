@@ -50,6 +50,10 @@ O objetivo é demonstrar habilidades em organização de dados, criação de gr�
 
 - A pressão arterial tende a aumentar conforme a faixa etária, reforçando a importância do monitoramento em populações mais velhas.
 
+## 📄 Dados Utilizados
+
+O dataset utilizado está disponível na pasta `dados/` e contém informações de saúde, incluindo idade, gênero, BMI, colesterol e condições clínicas.
+
 
 ## 📁 Estrutura do Repositório
 
